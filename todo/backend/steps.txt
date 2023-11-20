@@ -1,0 +1,9 @@
+ create folder structure
+ server.js
+ 1. config- dbConnnection.js
+ 2. controllers- userController.js
+ 3. middleware- errorHandler.js, validateToken.js
+ 4. model- userModel.js
+ 5. routes- userRoutes.js
+ 6. .env - (all data connections string )
+ constants.js- error data
